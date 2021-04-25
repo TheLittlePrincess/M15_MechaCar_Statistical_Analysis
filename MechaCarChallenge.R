@@ -6,7 +6,7 @@ car_data <- read.csv('Datasets/MechaCar_mpg.csv',check.names = F, stringsAsFacto
 # Write  linear regression model to be performed on all six variables (add the df from above)
 lm(mpg ~ vehicle_length + vehicle_weight + spoiler_angle + ground_clearance + AWD + mpg,data = car_data)
 # Create the statistical summary of the linear regression model with the intended p-values
-summary(lm(mpg ~ vehicle_length + vehicle_weight + spoiler_angle + ground_clearance + AWD + mpg,data = data))
+summary(lm(mpg ~ vehicle_length + vehicle_weight + spoiler_angle + ground_clearance + AWD + mpg,data = car_data))
 # Deliverable 2
 # Imported and read csv into a table
 coil_data <- read.csv('Datasets/Suspension_Coil.csv',check.names = F, stringsAsFactors = F)

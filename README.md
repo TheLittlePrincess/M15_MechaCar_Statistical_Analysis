@@ -62,5 +62,4 @@ Such data needs to be selected randomly from the population data (there are mult
 Also I would highly recommend to test more than one competitor car, but be mindful of compering them one by one and not only all combined in one sample
 
 
-![image](https://user-images.githubusercontent.com/75752314/116009948-ca963b80-a5e1-11eb-8bc7-8706a6eae29e.png)
 
